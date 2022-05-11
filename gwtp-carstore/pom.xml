@@ -142,7 +142,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>gwtp-mvp-client</artifactId>
-            <version>1.3</version>
+            <version>${gwtp-mvp-client.version}</version>
             <scope>provided</scope>
         </dependency>
         <dependency>

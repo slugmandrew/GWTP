@@ -218,7 +218,7 @@
                 <dependency>
                     <groupId>${project.groupId}</groupId>
                     <artifactId>gwtp-mvp-client</artifactId>
-                    <version>${project.version}</version>
+                    <version>${gwtp-mvp-client.version}</version>
                     <classifier>sources</classifier>
                     <scope>compile</scope>
                 </dependency>
