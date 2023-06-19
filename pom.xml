@@ -257,7 +257,7 @@
         <guice.version>3.0</guice.version>
         <javax.inject.version>1</javax.inject.version>
         <guava.version>16.0.1</guava.version>
-        <objectify.version>4.0b3</objectify.version>
+        <objectify.version>6.0</objectify.version>
         <persistence-api.version>1.0</persistence-api.version>
         <servlet-api.version>2.5</servlet-api.version>
         <spring.version>3.2.3.RELEASE</spring.version>
